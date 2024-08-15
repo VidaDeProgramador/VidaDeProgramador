@@ -10,3 +10,5 @@
 ### Meu email educacional 📩
 
 00001110087779sp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/mtiOW6O-k8YAAAAM/shrek-shrek-rizz.gif)
