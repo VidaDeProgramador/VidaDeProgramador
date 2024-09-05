@@ -2,7 +2,8 @@
 
 **Meu nome é Mateus Pereira de Souza**
 
-- Tenho conhecimento na linguagem **Python** e estou aprendendo as linguagens **JavaScript**, **HTML** e **CSS**
+- Estou aprendendo sobre Lingugens de Programação a 1 ano
+- Tenho feito cursos de **Python**, **Javascript**, **HTML** e **CSS**
 - Esse espaço serve para compartilhar meus resultados nos cursos do [Alura](https://www.alura.com.br) e do [Curso em Vídeo](https://www.cursoemvideo.com/)
 
 ### Meu email educacional 📖
