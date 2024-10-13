@@ -1,6 +1,6 @@
 ## Olá, Bem-vindo ao meu perfil 😁
 
-**Meu nome é Mateus Pereira de Souza**
+**Meu nome é Mateus**
 
 - Estou aprendendo sobre Linguagens de Programação desde 2023
 - Tenho feito cursos de **Python**, **Javascript**, **HTML 5** e **CSS 3**
