@@ -2,6 +2,7 @@
 
 **Meu nome é Mateus**
 
+- Estudo na Escola Técnica de São Roque (Etec)
 - Estou aprendendo sobre Linguagens de Programação desde 2023
 - Tenho feito cursos de **Python**, **Javascript**, **HTML 5** e **CSS 3**
 - Esse espaço serve para compartilhar meus resultados nos cursos do [Alura](https://www.alura.com.br) e do [Curso em Vídeo](https://www.cursoemvideo.com/)
