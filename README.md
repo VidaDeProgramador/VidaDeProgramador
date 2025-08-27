@@ -13,4 +13,4 @@ mateus.souza237@etec.sp.gov.br
 ### Meu email pessoal 📩
 mateus@hnw.com.br
 
-![toji](https://tenor.com/pt-BR/view/toji-fushiguro-toji-zenin-toji-toji-cuckoo-toji-finger-twirl-gif-12202550767802220006)
+![](https://media.tenor.com/xRUyjk6zCSIAAAAM/bleach-ichigo.gif)
