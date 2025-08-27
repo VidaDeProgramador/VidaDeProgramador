@@ -13,4 +13,4 @@ mateus.souza237@etec.sp.gov.br
 ### Meu email pessoal 📩
 mateus@hnw.com.br
 
-![]([https://media.tenor.com/xRUyjk6zCSIAAAAM/bleach-ichigo.gif](https://tenor.com/pt-BR/view/luffy-thumbs-up-luffy-onepiece-gif-1461749998422973641))
+![](https://media.tenor.com/xRUyjk6zCSIAAAAM/bleach-ichigo.gif)
