@@ -13,4 +13,4 @@ mateus.souza237@etec.sp.gov.br
 ### Meu email pessoal 📩
 mateus@hnw.com.br
 
-![luffy-thumbs-up-luffy](https://github.com/user-attachments/assets/e53179d6-61ab-4336-8e4b-de5e86209f64)
+![toji-fushiguro-toji-zenin](https://github.com/user-attachments/assets/bdef1d56-4575-414c-ba36-4db689611b43)
